@@ -20,6 +20,21 @@ Or install it yourself as:
 
     $ gem install spectre_css
 
+Import Spectre.css styles in `app/assets/stylesheets/application.css`:
+```css
+ *= require spectre.css
+```
+or you can add one or all of
+```css
+ *= require spectre.min.css
+ *= require spectre-exp.css
+ *= require spectre-exp.min.css
+```
+Icons
+```css
+ *= require spectre-icons.css
+ *= require spectre-icons.min.css
+```
 ## Usage
 
 TODO: Write usage instructions here
