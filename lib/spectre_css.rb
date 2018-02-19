@@ -1,5 +1,5 @@
-require "spectre/version"
+require "spectre_css/version"
 
-module Spectre
-  class Engine < ::Rails::Engine; end
+module SpectreCss
+  # Your code goes here...
 end
