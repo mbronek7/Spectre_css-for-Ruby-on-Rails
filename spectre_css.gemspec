@@ -1,8 +1,10 @@
 
+lib = File.expand_path("../lib", __FILE__)
+$LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 
 Gem::Specification.new do |spec|
   spec.name          = "spectre_css"
-  spec.version       = SpectreCss::VERSION
+  spec.version       = "0.1.3"
   spec.authors       = ["mbronek7"]
   spec.email         = ["mbronek7@gmail.com"]
 
