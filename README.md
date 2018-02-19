@@ -1,8 +1,8 @@
-# SpectreCss
+# Spectre_Css
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/spectre_css`. To experiment with that code, run `bin/console` for an interactive prompt.
+Spectre.css is a lightweight, responsive and modern CSS framework for faster and extensible development.
 
-TODO: Delete this and the text above, and describe your gem
+Spectre provides basic styles for typography and elements, flexbox based responsive layout system, pure CSS components and utilities with best practice coding and consistent design language.
 
 ## Installation
 
