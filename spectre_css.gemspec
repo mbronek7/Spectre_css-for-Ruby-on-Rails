@@ -12,7 +12,7 @@ Gem::Specification.new do |spec|
   spec.summary       = %q{Spectre.css for Rails}
   spec.description   = %q{Spectre.css a Lightweight, Responsive and Modern CSS Framework}
 
-  spec.homepage      = "https://github.com/mbronek7/Spectre.css-for-Ruby-on-Rails"
+  spec.homepage      = "https://github.com/mbronek7/Spectre_css-for-Ruby-on-Rails"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
