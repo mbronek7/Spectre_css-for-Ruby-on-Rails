@@ -1,6 +1,6 @@
 # Spectre_Css
 
-Spectre.css is a lightweight, responsive and modern CSS framework for faster and extensible development.
+[Spectre.css](https://picturepan2.github.io/spectre/) is a lightweight, responsive and modern CSS framework for faster and extensible development.
 
 Spectre provides basic styles for typography and elements, flexbox based responsive layout system, pure CSS components and utilities with best practice coding and consistent design language.
 
