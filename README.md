@@ -37,7 +37,7 @@ Icons
 ```
 ## Usage
 
-TODO: Write usage instructions here
+[Spectre.css](https://picturepan2.github.io/spectre/) 
 
 ## Development
 
