@@ -3,7 +3,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
  
 Gem::Specification.new do |spec|
    spec.name          = "spectre_css"
-   spec.version       = "0.1.5"
+   spec.version       = "0.1.6"
    spec.authors       = ["mbronek7"]
    spec.email         = ["mbronek7@gmail.com"]
  
